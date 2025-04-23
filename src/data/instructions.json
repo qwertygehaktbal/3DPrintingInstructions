@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Task 1: Turning on the machine and retracting the filament.",
+        "steps": [
+            {
+                "text": "1. Turn ON the 3D Printer at the backside of the by clicking on the button on the backside of the printer.",
+                "hint": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+            },
+            {
+                "text": "2. Click on the touch screen.",
+                "hint": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+            },
+            {
+                "text": "3. Select the slider icon to open the tuning menu.",
+                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd254bDZ6MmtoamJvY29sOXZidTJ4YTVpbzd3NmZyMTB0Ym8wYWI3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif"
+            },
+            {
+                "text": "4. Select the 'Extrude/Retract' tab.",
+                "hint": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+            },
+            {
+                "text": "5. Press the Retract option to retract any leftover filament from the nozzle.",
+                "hint": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+            },
+            {
+                "text": "6. Remove any leftover filament from the print bed.",
+                "hint": "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
+            }
+        ]
+    },
+    {
+        "title": "Printing Setup",
+        "steps": [
+            {
+                "text": "Load the model onto the SD card.",
+                "hint": "Use slicing software to export a .gcode file."
+            },
+            {
+                "text": "Insert the SD card into the printer.",
+                "hint": "Make sure it's fully inserted and recognized."
+            },
+            {
+                "text": "Select the file and begin printing.",
+                "hint": "Navigate the menu with the knob to choose your file."
+            }
+        ]
+    },
+    {
+        "title": "Post-Print",
+        "steps": [
+            {
+                "text": "Let the print cool down.",
+                "hint": "Wait at least 5–10 minutes to avoid warping."
+            },
+            {
+                "text": "Remove the print carefully.",
+                "hint": "Use the provided scraper to avoid damaging the plate."
+            },
+            {
+                "text": "Turn off the printer.",
+                "hint": "Flip the power switch to the off position."
+            }
+        ]
+    }
+]

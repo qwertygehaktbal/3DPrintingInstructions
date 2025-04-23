@@ -5,7 +5,7 @@ import "../App.css";
 
 export const Layout = () => {
     return (
-        <main className="font-sans bg-gradient-to-b from-indigo-50 to-white flex items-center justify-center px-4">
+        <main className="font-sans min-h-screen bg-gradient-to-b from-indigo-50 to-white flex items-center justify-center px-4">
             <Outlet />
         </main>
     );

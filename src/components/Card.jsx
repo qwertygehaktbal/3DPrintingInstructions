@@ -46,7 +46,11 @@ const Card = () => {
     };
 
     const nextPage = () => {
-        setCurrentPage((prev) => Math.min(prev + 1, instructions.length - 1));
+        if (currentPage === instructions.length - 1) {
+            navigation("/end"); // navigate to End.jsx
+        } else {
+            setCurrentPage((prev) => prev + 1);
+        }
     };
 
     const backPage = () => {
@@ -79,6 +83,7 @@ const Card = () => {
                                         type="checkbox"
                                         checked={checkboxes[index] || false}
                                         onChange={() => toggleCheckbox(index)}
+                                        className="mr-3"
                                     />
                                     <label className="mr-3">{step.text}</label>
                                 </div>
@@ -111,15 +116,18 @@ const Card = () => {
                     <ArrowBigLeftDash className="mr-2" /> Back
                 </Button>
                 <Button
-                    variant={
-                        currentPage === instructions.length - 1
-                            ? "disabled"
-                            : "next"
-                    }
+                    variant="next"
+                    // variant={
+                    //     currentPage === instructions.length - 1
+                    //         ? "disabled" // still styled differently
+                    //         : "next"
+                    // }
                     onClick={nextPage}
-                    disabled={currentPage === instructions.length - 1}
                 >
-                    Next <ArrowBigRightDash className="ml-2" />
+                    {currentPage === instructions.length - 1
+                        ? "Finish"
+                        : "Next"}
+                    <ArrowBigRightDash className="ml-2" />
                 </Button>
             </div>
         </div>

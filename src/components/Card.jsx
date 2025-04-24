@@ -68,9 +68,9 @@ const Card = () => {
     const checkboxes = checkedSteps[currentPage] || [];
 
     return (
-        <div className="bg-gray-100 p-4 rounded shadow w-full mt-10">
+        <div className="bg-gray-100 p-4 rounded shadow w-full min-h-screen flex flex-col">
             <h2 className="text-3xl font-semibold mb-3">{title}</h2>
-            <div className="space-y-4 mb-4">
+            <div className="flex-grow space-y-4 mb-4">
                 {steps.map((step, index) => (
                     <div
                         key={index}
@@ -107,16 +107,17 @@ const Card = () => {
                     </div>
                 ))}
             </div>
-            <div className="flex justify-start gap-2">
+            <div className="flex gap-2 mt-auto pt-4 border-t border-gray-300">
                 <Button
                     variant="next"
-                    className="bg-red-600 hover:bg-red-700 text-1xl"
+                    className="bg-red-600 hover:bg-red-700 text-1xl "
                     onClick={backPage}
                 >
                     <ArrowBigLeftDash className="mr-2" /> Back
                 </Button>
                 <Button
                     variant="next"
+                    className="flex justify-end"
                     // variant={
                     //     currentPage === instructions.length - 1
                     //         ? "disabled" // still styled differently

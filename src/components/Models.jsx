@@ -8,7 +8,7 @@ const Models = () => {
         <div className="flex flex-col justify-center items-center w-full">
             <div className="w-full aspect-video mb-4 relative">
                 <iframe
-                    src="https://www.thinglink.com/view/scene/1955587550949147110"
+                    src="https://www.thinglink.com/view/scene/1973398432970179428"
                     className={`absolute top-0 left-0 w-full h-full transition-opacity duration-300 ${
                         currentEmbed === "#embed1"
                             ? "opacity-100"

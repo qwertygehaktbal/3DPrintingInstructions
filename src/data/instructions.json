@@ -4,252 +4,211 @@
         "steps": [
             {
                 "text": "1. Turn ON the 3D Printer at the backside of the by clicking on the button on the backside of the printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "hint": "step1-43.gif"
             },
             {
-                "text": "2. Click on the touch screen.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "2. Go back to the front of the 3D Printer and click on the touch screen.",
+                "hint": "step2-21-37.gif"
             },
             {
-                "text": "3. Select the slider icon to open the tuning menu.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "3. Click on the slider icon on the left side of the screen to open the tune menu.",
+                "hint": "step3-22-38.gif"
             },
             {
                 "text": "4. Select the 'Extrude/Retract' tab.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "hint": "step4-23-39.gif"
             },
             {
-                "text": "5. Press the Retract option to retract any leftover filament from the nozzle.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "5. Click the Retract option to retract any leftover filament from the nozzle.",
+                "hint": "step5-40.gif"
             },
             {
-                "text": "6. Remove any leftover filament from the print bed.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "6. Click the retract option again to remove the filament from the print bed.",
+                "hint": "step6-41.gif"
+            },
+            {
+                "text": "7. Return back to the 3D printer by clicking the X button on the top right.",
+                "hint": "step7-26-42.gif"
             }
         ]
     },
     {
-        "title": "Task 2: Changing the heat.",
+        "title": "Task 2: Placing the filament.",
         "steps": [
             {
-                "text": "7. Turn ON the Dry Box by clicking on the switch at the backside of the machine.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "8. Turn ON the Dry Box by clicking on the switch at the backside of the machine.",
+                "hint": "step8-44.gif"
             },
             {
-                "text": "8. To change the heat, scroll the knob clockwise until the thermostat icon is flickering.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "9. Click on the filament spool to put the filament in the Dry Box",
+                "hint": "step9.gif"
             },
             {
-                "text": "9. Press the knob once to select the temperature.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "10. Scroll the knob clockwise to change the temperature to 50°C.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "11. Press the knob once again to confirm the change.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "10. Click on the filament hole at the back of the lid to put the filament string through the hole.",
+                "hint": "step10.gif"
             }
         ]
     },
     {
-        "title": "Task 3: Changing the timer.",
+        "title": "Task 3: Changing the settings.",
         "steps": [
             {
-                "text": "12. To change the time, scroll the knob clockwise until the timer icon is flickering.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "11. Click the button on the Dry Box to change the Dry Box settings. ",
+                "hint": "step11.gif"
             },
             {
-                "text": "13. Press the knob once to select the timer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "12. To select the heat, click the button once.",
+                "hint": "step12.gif"
             },
             {
-                "text": "14. Scroll the knob clockwise to change the timer to 4:00:00.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "13. Click the button once again to select the time.",
+                "hint": "step13.gif"
             },
             {
-                "text": "15. Press the knob once again to confirm the change.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "14. Confirm the changes by clicking the button one final time.",
+                "hint": "step14.gif"
+            },
+            {
+                "text": "15. To close the settings, click the closest X button",
+                "hint": "step15.gif"
             }
         ]
     },
     {
-        "title": "Task 4: Placing the filament.",
+        "title": "Task 4: Feeding the filament.",
         "steps": [
             {
-                "text": "16. Open the lid of the Dry Box.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "16. Take of the top panel of the 3D printer by clicking on the top lid of the 3D printer.",
+                "hint": "step16.gif"
             },
             {
-                "text": "17. Put the filament spool in the Dry Box with the filament string facing up.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "17. Unlock the nozzle lever by clicking on the lever.",
+                "hint": "step17.gif"
             },
             {
-                "text": "18. Put the filament string through the filament hole in the top lid of the Dry Box.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "18. Feed the filament by clicking on the tube that is attached to the filament spool",
+                "hint": "step18.gif"
             },
             {
-                "text": "19. Pull the filament string more out of the filament hole.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "19. When the filament is completely through the tube, click the lever again to lock it.",
+                "hint": "step19.gif"
+            },
+            {
+                "text": "20. Put the top panel back on the 3D Printer by clicking on the X on the top right. ",
+                "hint": "step20.gif"
             }
         ]
     },
     {
-        "title": "Task 5: Feeding the filament.",
+        "title": "Task 5: Extrude the filament.",
         "steps": [
             {
-                "text": "20. Fully take of the top panel of the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "21. Go back to the touchscreen.",
+                "hint": "step2-21-37.gif"
             },
             {
-                "text": "21. Unlock the nozzle lever by pushing it to the right.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "22. Select the slider icon to go to the tune menu again.",
+                "hint": "step3-22-38.gif"
             },
             {
-                "text": "22. Feed the filament in the tube that is attached to the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "23. Select the 'Extrude/Retract' tab once again.",
+                "hint": "step4-23-39.gif"
             },
             {
-                "text": "23. Keep feeding the filament into the tube until you can not feed anymore.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "24. Click the Extrude button to extrude the filament from the nozzle.",
+                "hint": "step24.gif"
             },
             {
-                "text": "24. Lock the nozzle lever by pushing it to the left.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "25. Click the Extrude button once again to remove the filament from the print bed.",
+                "hint": "step25.gif"
             },
             {
-                "text": "25. Put back the top panel on the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "26. Click the X to go back to the 3D printer.",
+                "hint": "step7-26-42.gif"
             }
         ]
     },
     {
-        "title": "Task 6: Extrude the filament.",
+        "title": "Task 6: Print your file.",
         "steps": [
             {
-                "text": "26. Go back to the touchscreen.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "27. Plug your USB drive into the 3D printer by clicking on the USB port.",
+                "hint": "step27.gif"
             },
             {
-                "text": "27. Select the slider icon to go to the tune menu again.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "28. Go to the touchscreen and select the Files icon to open the Files menu.",
+                "hint": "step28.gif"
             },
             {
-                "text": "28. Select the 'Extrude/Retract' tab once again.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "29. Select the USB drive tab.",
+                "hint": "step29.gif"
             },
             {
-                "text": "29. Press the Extrude button to extrude the filament from the nozzle.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "30. Click on item 1 to print that file.",
+                "hint": "step30.gif"
             },
             {
-                "text": "30. Remove the filament from the print bed.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "31. Tick the calibration box to automate the calibration.",
+                "hint": "step31.gif"
+            },
+            {
+                "text": "32. Click the print button to print your file.",
+                "hint": "step32.gif"
             }
         ]
     },
     {
-        "title": "Task 7: Print the file.",
+        "title": "Task 7: Removing your print.",
         "steps": [
             {
-                "text": "31. Plug your USB drive into the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "33. Remove the print from the print bed by clicking on the print.",
+                "hint": "step33.gif"
             },
             {
-                "text": "32. Select the file icon on the touchscreen.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "33. Select the USB Drive tab.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "34. Press on the file you want to print.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "35. Tick the calibration box to automate the calibration.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "36. Press the print button to print your file.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "34. Place the print bed back into the 3D printer by clicking on the X on the top right.",
+                "hint": "step34.gif"
             }
         ]
     },
     {
-        "title": "Task 8: Removing your print.",
+        "title": "Task 8: Retracting the filament once again",
         "steps": [
             {
-                "text": "37. Open the door of the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "37. Go back to the touchscreen.",
+                "hint": "step2-21-37.gif"
             },
             {
-                "text": "38. Take the print bed out of the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "38. Select the slider icon to open the tuning menu.",
+                "hint": "step3-22-38.gif"
             },
             {
-                "text": "39. Carefully remove the print from the print bed.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "39. Select the 'Extrude/Retract' tab.",
+                "hint": "step4-23-39.gif"
             },
             {
-                "text": "40. Place the print bed back into the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "40. Click the Retract option to retract the leftover filament from the nozzle.",
+                "hint": "step5-40.gif"
             },
             {
-                "text": "41. Close the door of the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "41. Click the Retract option again to remove the filament from the print bed.",
+                "hint": "step6-41.gif"
+            },
+            {
+                "text": "42. Return back to the 3D printer by clicking the X button on the top right.",
+                "hint": "step7-26-42.gif"
             }
         ]
     },
     {
-        "title": "Task 9: Retracting the filament once again",
+        "title": "Task 9: Turning off the machines",
         "steps": [
             {
-                "text": "42. Go back to the touchscreen.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "43. Turn OFF the 3D printer by clicking on the switch at the backside of the machine.",
+                "hint": "step1-43.gif"
             },
             {
-                "text": "43. Select the slider icon to open the tuning menu.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "44. Select the 'Extrude/Retract' tab.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "45. Press the Retract option to retract the leftover filament from the nozzle.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "46. Roll the rest of filament string back into the filament spool by slowly turning the filament spool.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "47. Get the filament spool out of the Dry Box.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "48. Put the end of the filament string in one of the holes on the filament spool.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            }
-        ]
-    },
-    {
-        "title": "Task 10: Turning off the machines",
-        "steps": [
-            {
-                "text": "49. Turn OFF the Dry Box by clicking on the switch at the backside of the machine.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "50. Turn OFF the 3D printer by clicking on the switch at the backside of the machine.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
-            },
-            {
-                "text": "51. Remove the USB Drive from the 3D printer.",
-                "hint": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN1dWtiYXBsbzdybWM3emdjcnBrN3UxM2V0NHZtejRnNHk4dHduYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif"
+                "text": "44. Turn OFF the Dry Box by clicking on the switch at the backside of the machine.",
+                "hint": "step8-44.gif"
             }
         ]
     }

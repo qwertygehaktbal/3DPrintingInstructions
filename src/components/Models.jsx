@@ -5,11 +5,13 @@ const Models = () => {
     const [currentEmbed, setCurrentEmbed] = useState("#embed1");
 
     return (
-        <div className="flex flex-col justify-center items-center w-full">
+        <div className="justify-center items-center bg-gray-100 p-4 rounded shadow w-full min-h-[90vh] flex flex-col">
             <div className="w-full aspect-video mb-4 relative">
                 <iframe
+                    width="700"
+                    height="700"
                     src="https://www.thinglink.com/view/scene/1973398432970179428"
-                    className={`absolute top-0 left-0 w-full h-full transition-opacity duration-300 ${
+                    className={` top-0 left-0 transition-opacity duration-300 ${
                         currentEmbed === "#embed1"
                             ? "opacity-100"
                             : "opacity-0 pointer-events-none"
@@ -17,7 +19,9 @@ const Models = () => {
                     allowFullScreen
                 ></iframe>
                 <iframe
-                    src="https://www.thinglink.com/view/scene/1956636364363530726"
+                    src="https://www.thinglink.com/view/scene/1973684327728284134"
+                    width="700"
+                    height="700"
                     className={`absolute top-0 left-0 w-full h-full transition-opacity duration-300 ${
                         currentEmbed === "#embed2"
                             ? "opacity-100"

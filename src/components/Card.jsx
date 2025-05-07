@@ -1,9 +1,9 @@
+//
 import React, { useState, useEffect } from "react";
 import instructionsData from "../data/instructions.json";
-import { Lightbulb } from "lucide-react";
+import { Lightbulb, ArrowBigLeftDash, ArrowBigRightDash } from "lucide-react";
 import Button from "./Button";
 import Hint from "./Hint";
-import { ArrowBigLeftDash, ArrowBigRightDash } from "lucide-react";
 import { useNavigate } from "react-router";
 
 const Card = () => {
@@ -11,6 +11,7 @@ const Card = () => {
     const [currentPage, setCurrentPage] = useState(0);
     const [instructions, setInstructions] = useState([]);
     const [checkedSteps, setCheckedSteps] = useState({});
+    const [warningMessage, setWarningMessage] = useState("");
     const navigation = useNavigate();
 
     useEffect(() => {
@@ -47,7 +48,7 @@ const Card = () => {
 
     const nextPage = () => {
         if (currentPage === instructions.length - 1) {
-            navigation("/end"); // navigate to End.jsx
+            navigation("/end");
         } else {
             setCurrentPage((prev) => prev + 1);
         }
@@ -60,6 +61,13 @@ const Card = () => {
         setCurrentPage((prev) => Math.max(prev - 1, 0));
     };
 
+    const showWarning = (message) => {
+        setWarningMessage(message);
+        setTimeout(() => {
+            setWarningMessage("");
+        }, 3000);
+    };
+
     if (instructions.length === 0) {
         return <p>Loading instructions...</p>;
     }
@@ -68,13 +76,18 @@ const Card = () => {
     const checkboxes = checkedSteps[currentPage] || [];
 
     return (
-        <div className="bg-gray-100 p-4 rounded shadow w-full min-h-screen flex flex-col">
+        <div className="bg-gray-100 p-4 rounded shadow w-full min-h-[90vh] flex flex-col">
+            {warningMessage && (
+                <div className="bg-yellow-200 text-yellow-900 border border-yellow-400 rounded px-4 py-2 mb-4">
+                    {warningMessage}
+                </div>
+            )}
             <h2 className="text-3xl font-semibold mb-3">{title}</h2>
-            <div className="flex-grow space-y-4 mb-4">
+            <div className="flex-grow space-y-4">
                 {steps.map((step, index) => (
                     <div
                         key={index}
-                        className="bg-white border rounded px-4 py-3 w-full"
+                        className="bg-white border rounded px-1.5 py-1.5 w-full"
                     >
                         <div className="flex flex-col justify-between items-start">
                             <div className="flex justify-between items-center w-full">
@@ -82,12 +95,25 @@ const Card = () => {
                                     <input
                                         type="checkbox"
                                         checked={checkboxes[index] || false}
+                                        disabled={
+                                            index > 0 && !checkboxes[index - 1]
+                                        }
+                                        onClick={() => {
+                                            if (
+                                                index > 0 &&
+                                                !checkboxes[index - 1]
+                                            ) {
+                                                showWarning(
+                                                    "Complete the previous step first."
+                                                );
+                                            }
+                                        }}
                                         onChange={() => toggleCheckbox(index)}
-                                        className="mr-3"
+                                        className="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded-sm focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600 mr-3"
                                     />
                                     <label className="mr-3">{step.text}</label>
                                 </div>
-                                <div className="">
+                                <div>
                                     <Button
                                         onClick={() => toggleHint(index)}
                                         variant="hint"
@@ -107,23 +133,24 @@ const Card = () => {
                     </div>
                 ))}
             </div>
+
             <div className="flex gap-2 mt-auto pt-4 border-t border-gray-300">
                 <Button
                     variant="next"
-                    className="bg-red-600 hover:bg-red-700 text-1xl "
+                    className="bg-red-600 hover:bg-red-700 text-1xl"
                     onClick={backPage}
                 >
                     <ArrowBigLeftDash className="mr-2" /> Back
                 </Button>
                 <Button
                     variant="next"
-                    className="flex justify-end"
-                    // variant={
-                    //     currentPage === instructions.length - 1
-                    //         ? "disabled" // still styled differently
-                    //         : "next"
-                    // }
+                    className={`flex justify-end ${
+                        !checkboxes.every(Boolean)
+                            ? "opacity-50 cursor-not-allowed"
+                            : ""
+                    }`}
                     onClick={nextPage}
+                    disabled={!checkboxes.every(Boolean)}
                 >
                     {currentPage === instructions.length - 1
                         ? "Finish"

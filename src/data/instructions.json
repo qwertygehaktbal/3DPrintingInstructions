@@ -3,7 +3,7 @@
         "title": "Task 1: Turning on the machine and retracting the filament.",
         "steps": [
             {
-                "text": "1. Turn ON the 3D Printer at the backside of the by clicking on the button on the backside of the printer.",
+                "text": "1. Turn ON the 3D Printer at the backside of the machine by clicking on the button on the backside of the printer.",
                 "hint": "step1-43.gif"
             },
             {
@@ -161,7 +161,7 @@
         "title": "Task 7: Removing your print.",
         "steps": [
             {
-                "text": "33. Remove the print from the print bed by clicking on the print.",
+                "text": "33. To see how to remove your print, click on the image on the print itself.",
                 "hint": "step33.gif"
             },
             {

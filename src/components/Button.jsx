@@ -5,7 +5,7 @@ import clsx from "clsx";
 const styles = {
     base: "inline-flex items-center justify-center rounded-lg px-4 py-2 font-medium transition-colors cursor-pointer",
     variants: {
-        start: "px-6 py-3 bg-emerald-600 text-white text-2xl font-semibold rounded-lg shadow-md hover:bg-emerald-700 transition duration-200 ease-in-out",
+        start: "px-6 py-3 bg-amber-600 text-white text-2xl font-semibold rounded-lg shadow-md hover:bg-emerald-700 transition duration-200 ease-in-out",
         next: "px-4 py-1 bg-emerald-600 text-white text-2xl font-semibold rounded-lg shadow-md hover:bg-emerald-700 transition duration-200 ease-in-out",
         back: "px-6 py-3 bg-red-600 text-white text-2xl font-semibold rounded-lg shadow-md hover:bg-red-700 transition duration-200 ease-in-out",
         disabled:

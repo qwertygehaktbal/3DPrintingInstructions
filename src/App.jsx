@@ -9,7 +9,7 @@ import Layout from "./components/Layout";
 
 export const App = () => {
     return (
-        <BrowserRouter>
+        <HashRouter>
             <Routes>
                 <Route
                     path="/"
@@ -37,7 +37,7 @@ export const App = () => {
                     />
                 </Route>
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
     );
 };
 

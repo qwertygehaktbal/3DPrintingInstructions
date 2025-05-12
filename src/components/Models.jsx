@@ -10,7 +10,7 @@ const Models = () => {
                 <iframe
                     width="700"
                     height="700"
-                    src="https://www.thinglink.com/view/scene/1973398432970179428"
+                    src="https://www.thinglink.com/view/scene/1977017253379441126"
                     className={` top-0 left-0 transition-opacity duration-300 ${
                         currentEmbed === "#embed1"
                             ? "opacity-100"
@@ -19,7 +19,7 @@ const Models = () => {
                     allowFullScreen
                 ></iframe>
                 <iframe
-                    src="https://www.thinglink.com/view/scene/1973684327728284134"
+                    src="https://www.thinglink.com/view/scene/1977018491546370534"
                     width="700"
                     height="700"
                     className={`absolute top-0 left-0 w-full h-full transition-opacity duration-300 ${

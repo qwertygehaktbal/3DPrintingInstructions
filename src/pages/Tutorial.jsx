@@ -1,11 +1,13 @@
 import { ArrowBigLeftDash, ArrowBigRightDash } from "lucide-react";
 import Button from "../components/Button";
 import Suzanne from "../components/Suzanne";
+import rightArrow from "../assets/img/rightarrow.png";
+import leftArrow from "../assets/img/leftarrow.png";
 
 export const Tutorial = () => {
     return (
         <div className="text-center">
-            <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-3 mt-6">
+            <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-3">
                 3D printing Instructions
             </h1>
             <h2 className="text-1xl md:text-2xl font-semibold text-gray-500 mb-8 mx-50">
@@ -21,7 +23,7 @@ export const Tutorial = () => {
                     REAL LIFE SCENARIO.
                 </i>
             </h3>
-            <div className="flex justify-center items-center gap-x-5">
+            <div className="flex justify-center items-center gap-x-50">
                 <div>
                     <h2 className="text-4xl font-bold text-gray">Controls:</h2>
                     <ul className="text-2xl text-gray-500 text-start mt-3">
@@ -36,8 +38,20 @@ export const Tutorial = () => {
                         </li>
                     </ul>
                 </div>
-                <div>
-                    <Suzanne></Suzanne>
+                <div className="flex flex-col items-center">
+                    <Suzanne />
+                    <div className="flex justify-between w-full mt-2 px-10">
+                        <img
+                            src={rightArrow}
+                            alt="Right Arrow"
+                            className="w-12 h-12 cursor-default"
+                        />
+                        <img
+                            src={leftArrow}
+                            alt="Left Arrow"
+                            className="w-12 h-12 cursor-default"
+                        />
+                    </div>
                 </div>
             </div>
             <div className="flex justify-center items-center gap-x-4 mt-6">

@@ -4,31 +4,31 @@
         "steps": [
             {
                 "text": "1. Turn ON the 3D printer at the backside of the machine.",
-                "hint": ""
+                "hint": "TASK1-STEP1.gif"
             },
             {
                 "text": "2. When you've turned the 3D printer on, press the X button on the top right to go back to the 3D printer.",
-                "hint": ""
+                "hint": "TASK1-STEP2.gif"
             },
             {
                 "text": "3. Go to the front of the 3D printer and click on the touchscreen. ",
-                "hint": ""
+                "hint": "TASK1-STEP3.gif"
             },
             {
                 "text": "4. Click on the slider icon on the left side of the screen to open the tune menu.",
-                "hint": ""
+                "hint": "TASK1-STEP4.gif"
             },
             {
                 "text": "5. Select the 'Extrude/Retract' tab.",
-                "hint": ""
+                "hint": "TASK1-STEP5.gif"
             },
             {
                 "text": "6. Click the Retract option to retract any leftover filament from the filament tube.",
-                "hint": ""
+                "hint": "TASK1-STEP6.gif"
             },
             {
                 "text": "7. Return back to the 3D printer by clicking the X button on the top right.",
-                "hint": ""
+                "hint": "TASK1-STEP7.gif"
             }
         ]
     },
@@ -37,23 +37,23 @@
         "steps": [
             {
                 "text": "8. Click on the Dry Box button to change the 3D model to the Dry Box.",
-                "hint": ""
+                "hint": "TASK2-STEP8.gif"
             },
             {
                 "text": "9. Turn ON the Dry Box at the backside of the machine.",
-                "hint": ""
+                "hint": "TASK2-STEP9.gif"
             },
             {
                 "text": "10. When you've turned the Dry Box on, press the X button on the top right to go back to the Dry Box.",
-                "hint": ""
+                "hint": "TASK2-STEP10.gif"
             },
             {
                 "text": "11. Click on the lid of the Dry Box to put the filament spool in the Dry Box",
-                "hint": ""
+                "hint": "TASK2-STEP11.gif"
             },
             {
                 "text": "12. Click on the filament hole at the back of the lid to put the filament string through the hole.",
-                "hint": ""
+                "hint": "TASK2-STEP12.gif"
             }
         ]
     },
@@ -62,23 +62,23 @@
         "steps": [
             {
                 "text": "13. Click the button on the Dry Box to change the Dry Box settings. ",
-                "hint": ""
+                "hint": "TASK3-STEP13.gif"
             },
             {
                 "text": "14. To select the heat, click the button once.",
-                "hint": ""
+                "hint": "TASK3-STEP14.gif"
             },
             {
                 "text": "15. Click the button once again to confirm the heat.",
-                "hint": ""
+                "hint": "TASK3-STEP15.gif"
             },
             {
                 "text": "16. Confirm the time by clicking the button one final time.",
-                "hint": ""
+                "hint": "TASK3-STEP16.gif"
             },
             {
                 "text": "17. To close the settings, click on the most top right X button",
-                "hint": ""
+                "hint": "TASK3-STEP17.gif"
             }
         ]
     },
@@ -87,27 +87,27 @@
         "steps": [
             {
                 "text": "18. Return back to the 3D Printer by clicking on the 3D Printer button.",
-                "hint": ""
+                "hint": "TASK4-STEP18.gif"
             },
             {
                 "text": "19. Take of the top panel of the 3D printer by clicking on the top lid of the 3D printer.",
-                "hint": ""
+                "hint": "TASK4-STEP19.gif"
             },
             {
                 "text": "20. Unlock the nozzle lever by clicking on the lever.",
-                "hint": ""
+                "hint": "TASK4-STEP20.gif"
             },
             {
                 "text": "21. Feed the filament by clicking on the tube that is attached to the filament spool",
-                "hint": ""
+                "hint": "TASK4-STEP21.gif"
             },
             {
                 "text": "22. When the filament is completely through the tube, click the lever again to lock it.",
-                "hint": ""
+                "hint": "TASK4-STEP22.gif"
             },
             {
                 "text": "23. Put the top panel back on the 3D Printer by clicking on the X on the top right. ",
-                "hint": ""
+                "hint": "TASK4-STEP23.gif"
             }
         ]
     },
@@ -116,23 +116,23 @@
         "steps": [
             {
                 "text": "24. Go back to the touchscreen.",
-                "hint": ""
+                "hint": "TASK5-STEP24.gif"
             },
             {
                 "text": "25. Select the slider icon to go to the tune menu again.",
-                "hint": ""
+                "hint": "TASK5-STEP25.gif"
             },
             {
                 "text": "26. Select the 'Extrude/Retract' tab once again.",
-                "hint": ""
+                "hint": "TASK5-STEP26.gif"
             },
             {
                 "text": "27. Click the Extrude button to extrude the extra filament from the nozzle.",
-                "hint": ""
+                "hint": "TASK5-STEP27.gif"
             },
             {
                 "text": "28. Click the X to go back to the 3D printer.",
-                "hint": ""
+                "hint": "TASK5-STEP28.gif"
             }
         ]
     },
@@ -141,31 +141,31 @@
         "steps": [
             {
                 "text": "29. Plug your USB drive into the 3D printer by clicking on the USB port.",
-                "hint": ""
+                "hint": "TASK6-STEP29.gif"
             },
             {
                 "text": "30. Press the X in the top right and go back to the touchscreen.",
-                "hint": ""
+                "hint": "TASK6-STEP30.gif"
             },
             {
                 "text": "31. Select the Files icon to open the file menu.",
-                "hint": ""
+                "hint": "TASK6-STEP31.gif"
             },
             {
                 "text": "32. Select the USB drive tab.",
-                "hint": ""
+                "hint": "TASK6-STEP32.gif"
             },
             {
                 "text": "33. Click on item 1 to select that print.",
-                "hint": ""
+                "hint": "TASK6-STEP33.gif"
             },
             {
                 "text": "34. Tick the calibration box to automatically do the calibration.",
-                "hint": ""
+                "hint": "TASK6-STEP34.gif"
             },
             {
                 "text": "35. Click the print button to print your file.",
-                "hint": ""
+                "hint": "TASK6-STEP35.gif"
             }
         ]
     },
@@ -174,11 +174,11 @@
         "steps": [
             {
                 "text": "36. To see how to remove your print, click on the image on the print itself.",
-                "hint": ""
+                "hint": "TASK7-STEP36.gif"
             },
             {
                 "text": "37. Return back to the 3D Printer by clicking on the X on the top right. ",
-                "hint": ""
+                "hint": "TASK7-STEP37.gif"
             }
         ]
     },
@@ -187,23 +187,23 @@
         "steps": [
             {
                 "text": "38. Go back to the touchscreen.",
-                "hint": ""
+                "hint": "TASK8-STEP38.gif"
             },
             {
                 "text": "39. Select the slider icon to open the tuning menu.",
-                "hint": ""
+                "hint": "TASK8-STEP39.gif"
             },
             {
                 "text": "40. Select the 'Extrude/Retract' tab.",
-                "hint": ""
+                "hint": "TASK8-STEP40.gif"
             },
             {
                 "text": "41. Click the Retract option to retract the leftover filament from the nozzle.",
-                "hint": ""
+                "hint": "TASK8-STEP41.gif"
             },
             {
                 "text": "42. Return back to the 3D printer by clicking the X button on the top right.",
-                "hint": ""
+                "hint": "TASK8-STEP42.gif"
             }
         ]
     },
@@ -212,11 +212,11 @@
         "steps": [
             {
                 "text": "43. Turn OFF the 3D printer by clicking on the switch at the backside of the machine.",
-                "hint": ""
+                "hint": "TASK9-STEP43.gif"
             },
             {
                 "text": "44. Turn OFF the Dry Box by clicking on the switch at the backside of the machine.",
-                "hint": "f"
+                "hint": "TASK9-STEP44.gif"
             }
         ]
     }

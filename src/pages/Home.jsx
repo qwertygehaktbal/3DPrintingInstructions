@@ -20,7 +20,10 @@ export const Home = () => {
                     3D Printing <Printer className="ml-2 h-6 w-6" />
                 </Button>
 
-                <Button variant="disabled">
+                <Button
+                    variant="orca"
+                    to="/orcainfo"
+                >
                     {" "}
                     OrcaSlicer
                     <Fish className="ml-2 h-6 w-6" />{" "}

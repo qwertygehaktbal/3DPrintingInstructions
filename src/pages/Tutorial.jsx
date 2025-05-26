@@ -15,7 +15,9 @@ export const Tutorial = () => {
                 Max that is used for 3D printing in the ProtoLab of the HAMK
                 Design Factory. These instructions are separated in 10 different
                 tasks. In order to finish the instructions, you must complete
-                every tasks with the necessary steps.
+                every task with the necessary steps. When you've done a step,
+                make sure to tick the checkbox before continuing on to the next
+                step.
             </h2>
             <h3>
                 <i>

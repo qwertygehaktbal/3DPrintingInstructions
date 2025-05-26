@@ -1,6 +1,7 @@
 import React from "react";
 import Home from "./pages/Home";
 import Tutorial from "./pages/Tutorial";
+import OrcaInfo from "./pages/OrcaInfo";
 import Instructions from "./pages/Instructions";
 import Test from "./pages/Test";
 import End from "./pages/End";
@@ -22,6 +23,10 @@ export const App = () => {
                     <Route
                         path="/tutorial"
                         element={<Tutorial />}
+                    />
+                    <Route
+                        path="/orcainfo"
+                        element={<OrcaInfo />}
                     />
                     <Route
                         path="/test"

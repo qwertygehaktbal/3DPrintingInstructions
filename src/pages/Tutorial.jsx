@@ -13,7 +13,7 @@ export const Tutorial = () => {
             <h2 className="text-1xl md:text-2xl font-semibold text-gray-500 mb-8 mx-50">
                 In these instructions you will learn how to use the Creality K1
                 Max that is used for 3D printing in the ProtoLab of the HAMK
-                Design Factory. These instructions are separated in 10 different
+                Design Factory. These instructions are separated in 9 different
                 tasks. In order to finish the instructions, you must complete
                 every task with the necessary steps. When you've done a step,
                 make sure to tick the checkbox before continuing on to the next
